@@ -1,0 +1,100 @@
+{
+    "title": "Authentic Chinese Egg Rolls from a Chinese Person",
+    "cuisine": "Chinese",
+    "difficulty": "medium",
+    "prep_time": "45 minutes",
+    "cook_time": "15 minutes",
+    "total_time": "1 hour",
+    "servings": "15",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "unit": "pound",
+            "item": "ground pork"
+        },
+        {
+            "quantity": "1",
+            "unit": "head",
+            "item": "cabbage, shredded"
+        },
+        {
+            "quantity": "2",
+            "unit": "large",
+            "item": "carrots, shredded"
+        },
+        {
+            "quantity": "2",
+            "unit": "tablespoons",
+            "item": "soy sauce"
+        },
+        {
+            "quantity": "1",
+            "unit": "tablespoon",
+            "item": "fresh ginger, minced"
+        },
+        {
+            "quantity": "2",
+            "unit": "cloves",
+            "item": "garlic, minced"
+        },
+        {
+            "quantity": "1",
+            "unit": "package",
+            "item": "egg roll wrappers"
+        },
+        {
+            "quantity": "1",
+            "unit": "quart",
+            "item": "vegetable oil for frying"
+        },
+        {
+            "quantity": "1",
+            "unit": "teaspoon",
+            "item": "sesame oil"
+        }
+    ],
+    "instructions": [
+        "In a large skillet or wok, cook the ground pork over medium-high heat until browned and crumbly. Drain excess fat.",
+        "Stir in the shredded cabbage, carrots, garlic, and ginger. Saut\u00e9 until the vegetables are softened and the moisture has mostly evaporated.",
+        "Stir in the soy sauce and sesame oil. Remove from heat and let the filling cool completely.",
+        "Place an egg roll wrapper on a flat surface in a diamond shape. Place about 2-3 tablespoons of filling in the center.",
+        "Fold the bottom corner over the filling, then fold in the side corners. Roll up tightly, sealing the top corner with a dab of water.",
+        "Heat vegetable oil in a deep-fryer or heavy pot to 375\u00b0F (190\u00b0C).",
+        "Fry egg rolls in batches for 3 to 5 minutes, turning occasionally, until golden brown and crispy.",
+        "Drain on paper towels and serve warm with dipping sauce."
+    ],
+    "nutrition_estimate": {
+        "calories": "245 kcal",
+        "protein": "9g",
+        "carbs": "22g",
+        "fat": "14g"
+    },
+    "substitutions": [
+        "Ground chicken or shrimp can be used instead of ground pork.",
+        "Use a pre-shredded coleslaw mix to save time on chopping cabbage and carrots.",
+        "Tamari can be substituted for soy sauce for a gluten-free filling (ensure wrappers are also GF)."
+    ],
+    "shopping_list": {
+        "Meat": [
+            "Ground pork"
+        ],
+        "Produce": [
+            "Green cabbage",
+            "Carrots",
+            "Fresh ginger",
+            "Garlic"
+        ],
+        "Pantry & Cold": [
+            "Soy sauce",
+            "Sesame oil",
+            "Egg roll wrappers",
+            "Vegetable oil"
+        ]
+    },
+    "related_recipes": [
+        "Homemade Pork Potstickers",
+        "Crispy Vegetable Spring Rolls",
+        "Sweet and Sour Dipping Sauce"
+    ],
+    "url": "https://www.allrecipes.com/recipe/61913/authentic-chinese-egg-rolls-from-a-chinese-person/"
+}

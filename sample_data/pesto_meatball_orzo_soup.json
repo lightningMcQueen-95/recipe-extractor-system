@@ -1,0 +1,87 @@
+{
+    "title": "Pesto Meatball Orzo Soup",
+    "cuisine": "Italian-American",
+    "difficulty": "easy",
+    "prep_time": "10 minutes",
+    "cook_time": "20 minutes",
+    "total_time": "30 minutes",
+    "servings": "4",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "unit": "lb",
+            "item": "frozen mini meatballs"
+        },
+        {
+            "quantity": "1",
+            "unit": "cup",
+            "item": "uncooked orzo pasta"
+        },
+        {
+            "quantity": "6",
+            "unit": "cups",
+            "item": "chicken broth"
+        },
+        {
+            "quantity": "1/2",
+            "unit": "cup",
+            "item": "prepared basil pesto"
+        },
+        {
+            "quantity": "2",
+            "unit": "cups",
+            "item": "fresh baby spinach"
+        },
+        {
+            "quantity": "1/4",
+            "unit": "cup",
+            "item": "grated parmesan cheese"
+        },
+        {
+            "quantity": "1",
+            "unit": "tsp",
+            "item": "garlic powder"
+        }
+    ],
+    "instructions": [
+        "In a large pot or Dutch oven, bring the chicken broth and garlic powder to a boil over medium-high heat.",
+        "Add the frozen meatballs and the uncooked orzo pasta to the boiling broth.",
+        "Reduce the heat to a simmer and cook for 10 to 12 minutes, or until the orzo is tender and the meatballs are heated through.",
+        "Stir in the basil pesto and the fresh baby spinach until the spinach has wilted, which should take about 1-2 minutes.",
+        "Ladle the soup into bowls and garnish with grated parmesan cheese before serving."
+    ],
+    "nutrition_estimate": {
+        "calories": "420 kcal",
+        "protein": "24g",
+        "carbs": "38g",
+        "fat": "18g"
+    },
+    "substitutions": [
+        "Substitute turkey meatballs for beef meatballs for a leaner protein option.",
+        "Use kale instead of spinach for a hardier green texture.",
+        "Swap chicken broth for vegetable broth if using plant-based meatballs."
+    ],
+    "shopping_list": {
+        "Meat & Frozen": [
+            "Mini meatballs (frozen)"
+        ],
+        "Produce": [
+            "Fresh baby spinach"
+        ],
+        "Pantry": [
+            "Orzo pasta",
+            "Chicken broth",
+            "Basil pesto",
+            "Garlic powder"
+        ],
+        "Dairy": [
+            "Grated parmesan cheese"
+        ]
+    },
+    "related_recipes": [
+        "Lemon Chicken Orzo Soup",
+        "Italian Wedding Soup with Escarole",
+        "Tomato Pesto Tortellini Soup"
+    ],
+    "url": "https://www.allrecipes.com/pesto-meatball-orzo-soup-recipe-11950489"
+}

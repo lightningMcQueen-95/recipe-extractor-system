@@ -1,0 +1,61 @@
+{
+    "title": "Grilled Cheese Sandwich",
+    "cuisine": "American",
+    "difficulty": "easy",
+    "prep_time": "5 minutes",
+    "cook_time": "10 minutes",
+    "total_time": "15 minutes",
+    "servings": "1",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "unit": "slices",
+            "item": "white bread"
+        },
+        {
+            "quantity": "1",
+            "unit": "tablespoon",
+            "item": "butter"
+        },
+        {
+            "quantity": "2",
+            "unit": "slices",
+            "item": "cheddar cheese"
+        }
+    ],
+    "instructions": [
+        "Preheat a skillet over medium heat.",
+        "Generously butter one side of each slice of bread.",
+        "Place one slice of bread, butter-side down, into the hot skillet.",
+        "Place the slices of cheese on top of the bread.",
+        "Place the second slice of bread on top, butter-side up.",
+        "Cook until the bottom bread is golden brown, then flip the sandwich.",
+        "Continue cooking until the second side is golden brown and the cheese is melted."
+    ],
+    "nutrition_estimate": {
+        "calories": "350",
+        "protein": "12g",
+        "carbs": "30g",
+        "fat": "20g"
+    },
+    "substitutions": [
+        "Use margarine or mayonnaise instead of butter for the exterior.",
+        "Substitute sourdough or whole wheat bread for white bread.",
+        "Use American or Swiss cheese instead of cheddar."
+    ],
+    "shopping_list": {
+        "Bakery": [
+            "White bread"
+        ],
+        "Dairy": [
+            "Butter",
+            "Cheddar cheese slices"
+        ]
+    },
+    "related_recipes": [
+        "Classic Tomato Soup",
+        "Ham and Cheese Melt",
+        "Tuna Melt Sandwich"
+    ],
+    "url": "https://www.allrecipes.com/recipe/23891/grilled-cheese-sandwich/"
+}

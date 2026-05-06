@@ -1,0 +1,77 @@
+{
+    "title": "German Carrot Salad",
+    "cuisine": "German",
+    "difficulty": "easy",
+    "prep_time": "15 minutes",
+    "cook_time": "0 minutes",
+    "total_time": "15 minutes",
+    "servings": "4",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "unit": "pound",
+            "item": "carrots, peeled and shredded"
+        },
+        {
+            "quantity": "2",
+            "unit": "tablespoons",
+            "item": "lemon juice"
+        },
+        {
+            "quantity": "2",
+            "unit": "tablespoons",
+            "item": "neutral oil (such as sunflower or canola)"
+        },
+        {
+            "quantity": "1",
+            "unit": "teaspoon",
+            "item": "granulated sugar"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "teaspoon",
+            "item": "salt"
+        },
+        {
+            "quantity": "1",
+            "unit": "pinch",
+            "item": "black pepper"
+        }
+    ],
+    "instructions": [
+        "Peel the carrots and shred them using a box grater or a food processor.",
+        "In a small bowl, whisk together the lemon juice, oil, sugar, salt, and pepper until the sugar is dissolved.",
+        "Place the shredded carrots in a large mixing bowl and pour the dressing over them.",
+        "Toss thoroughly to coat the carrots evenly.",
+        "Let the salad sit for at least 10 to 15 minutes before serving to allow the flavors to meld and the carrots to soften slightly."
+    ],
+    "nutrition_estimate": {
+        "calories": "95",
+        "protein": "1g",
+        "carbs": "12g",
+        "fat": "6g"
+    },
+    "substitutions": [
+        "Apple cider vinegar instead of lemon juice",
+        "Honey or maple syrup instead of granulated sugar",
+        "Add one grated apple for extra sweetness and crunch"
+    ],
+    "shopping_list": {
+        "Produce": [
+            "Carrots",
+            "Lemon"
+        ],
+        "Pantry": [
+            "Vegetable oil",
+            "Sugar",
+            "Salt",
+            "Black pepper"
+        ]
+    },
+    "related_recipes": [
+        "German Cucumber Salad (Gurkensalat)",
+        "German Potato Salad",
+        "Red Cabbage Slaw"
+    ],
+    "url": "https://www.allrecipes.com/german-carrot-salad-recipe-11935511"
+}

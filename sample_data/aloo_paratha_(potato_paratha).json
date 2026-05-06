@@ -1,0 +1,150 @@
+{
+    "title": "Aloo Paratha (Potato Paratha)",
+    "cuisine": "Punjabi",
+    "difficulty": "Easy",
+    "prep_time": "10 minutes",
+    "cook_time": "30 minutes",
+    "total_time": "40 minutes",
+    "servings": 8,
+    "ingredients": [
+        {
+            "quantity": "2",
+            "unit": "cup",
+            "item": "wheat flour"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "tsp",
+            "item": "salt"
+        },
+        {
+            "quantity": "2",
+            "unit": "tbsp",
+            "item": "oil"
+        },
+        {
+            "quantity": "3",
+            "unit": "",
+            "item": "potatoes, boiled & mashed"
+        },
+        {
+            "quantity": "1",
+            "unit": "tsp",
+            "item": "ginger paste"
+        },
+        {
+            "quantity": "2",
+            "unit": "",
+            "item": "green chillies, finely chopped"
+        },
+        {
+            "quantity": "2",
+            "unit": "tbsp",
+            "item": "coriander, finely chopped"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "tsp",
+            "item": "coriander seeds"
+        },
+        {
+            "quantity": "0.25",
+            "unit": "tsp",
+            "item": "ajwain (carom seeds)"
+        },
+        {
+            "quantity": "1",
+            "unit": "tsp",
+            "item": "chilli powder"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "tsp",
+            "item": "cumin powder"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "tsp",
+            "item": "garam masala"
+        },
+        {
+            "quantity": "0.75",
+            "unit": "tsp",
+            "item": "aamchur (dry mango powder)"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "tsp",
+            "item": "salt (for stuffing)"
+        },
+        {
+            "quantity": "as required",
+            "unit": "",
+            "item": "water"
+        },
+        {
+            "quantity": "as required",
+            "unit": "",
+            "item": "oil or ghee for roasting"
+        }
+    ],
+    "instructions": [
+        "In a large bowl, mix wheat flour and salt. Add water as required and knead into a smooth, soft dough.",
+        "Add 2 tbsp oil to the dough, knead again, and let it rest for 20 minutes.",
+        "Prepare the stuffing by combining mashed potatoes, ginger paste, chillies, coriander, coriander seeds, ajwain, chilli powder, cumin powder, garam masala, aamchur, and salt. Mix well.",
+        "After the dough has rested, pinch a ball-sized portion and roll it into a 4-inch circle.",
+        "Place a ball of the prepared aloo stuffing in the center.",
+        "Pleat the edges of the dough to the center, join them together, and pinch off any excess dough to secure.",
+        "Dust with wheat flour and roll the stuffed dough into a slightly thick paratha.",
+        "Place the paratha on a hot tawa and cook for a minute.",
+        "Flip the paratha, brush with oil or ghee, and press slightly. Cook both sides until golden brown and properly cooked.",
+        "Serve hot with raita or pickle."
+    ],
+    "nutrition_estimate": {
+        "calories": "155 kcal",
+        "protein": "3.8g",
+        "carbs": "26.5g",
+        "fat": "4.2g"
+    },
+    "substitutions": [
+        {
+            "original": "Wheat flour",
+            "substitution": "All-purpose flour (Maida) or a 1:1 ratio of both"
+        },
+        {
+            "original": "Oil",
+            "substitution": "Ghee or butter for a richer flavor and traditional dhaba style"
+        },
+        {
+            "original": "Aamchur",
+            "substitution": "Lemon juice or dry pomegranate powder (Anardana)"
+        }
+    ],
+    "shopping_list": {
+        "Produce": [
+            "Potatoes",
+            "Fresh coriander",
+            "Green chillies",
+            "Ginger"
+        ],
+        "Pantry": [
+            "Wheat flour",
+            "Cooking oil or Ghee",
+            "Salt"
+        ],
+        "Spices": [
+            "Coriander seeds",
+            "Ajwain (Carom seeds)",
+            "Chilli powder",
+            "Cumin powder",
+            "Garam masala",
+            "Aamchur"
+        ]
+    },
+    "related_recipes": [
+        "Hung curd paratha",
+        "Aloo gobi paratha",
+        "Aloo cheese paratha"
+    ],
+    "url": "https://hebbarskitchen.com/aloo-paratha-recipe-aalu-ka-paratha-aloo/"
+}
